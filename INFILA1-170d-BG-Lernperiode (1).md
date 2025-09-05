@@ -34,4 +34,8 @@ Heute habe ich den ganzen Tag lang gebraucht, um Github und so auf den richtigen
 (In dieser Lernperiode habe ich... (100-150 Wörter))
 Heute habe ich den Lernperiode-plan angewendet und Dannach im Modul 319 Mission 6 fast fertig gelöst. Ich habe heute wieder die Lernperiode Powerpoint studiert. Ich habe die 45 Minuten Pause eingeteilt.
 
+
 Ich musste die Reflexion nochmal schreiben weil ich es nicht gespeichert habe:(
+
+## 05.09.2025
+Heute habe ich das Handlungsziel 1 abgeschlossen im Modul 431 und ich habe im Modul 319 fast Mission 6 abgeschlossen. Heute habe ich mit Herrn Lauk einen Einzelgespräch durchgeführt.
