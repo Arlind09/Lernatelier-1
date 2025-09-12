@@ -39,3 +39,10 @@ Ich musste die Reflexion nochmal schreiben weil ich es nicht gespeichert habe:(
 
 ## 05.09.2025
 Heute habe ich das Handlungsziel 1 abgeschlossen im Modul 431 und ich habe im Modul 319 fast Mission 6 abgeschlossen. Heute habe ich mit Herrn Lauk einen Einzelgespräch durchgeführt.
+
+## 12.09.2025
+Heute habe ich den in Modul 431 aufgabe 1709 den Draw.io-Auftrag erledigt. Den Auftrag 1713 habe ich noch nicht ganz erledigt aber ich habe den Excel Zeitplan gemacht und muss jetzt nur noch einen Word schreiben. UNd am Ende habe ich es geschafft, den Auftrag 1713 zu verstehen. Im Modul 319 habe ich die Mission 7, in dem es über Arrays geht, abgeschlossen und verstanden, was ein Array ist.
+
+Feinplanung für nächste Woche
+Modul 431 mind. 1 von den Expertenziele in HZ 2 Abzuschliessen
+Modul 319 bis Mission 9 zu kommen
