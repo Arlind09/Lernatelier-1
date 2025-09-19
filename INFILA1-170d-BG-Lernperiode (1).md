@@ -49,3 +49,8 @@ Modul 319 bis Mission 9 zu kommen
 
 ## 19.09.2025
 
+Heute habe ich nur an dem Modul 431 gearbeitet. Ich habe im Modul 431 Auftrag 1709, 1715, 1718 und 1717 gelöst und abgegeben. Im Auftrag 1715 und 1718 ging es mehrheitlich um das Arbeiten mit Excel. Im Auftrag 1717 musste ich nur ein Moodle Test machen und dort hatte ich 3 von 3 Punkte. Für das alles brauchte ich etwa 3 Lektionen und der Rest der Lektionen habe ich an den Auftrag 1720 gearbeitet.
+
+Feinplanung:
+Im Modul 319 Mission 9 erledigen und vielleicht mit der Mission 10 anfangen.
+Im Modul 431 HZ3 abschliessen und vielleicht mit den Expertenziele anfangen.
