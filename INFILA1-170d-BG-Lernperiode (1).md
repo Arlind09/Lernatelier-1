@@ -54,3 +54,6 @@ Heute habe ich nur an dem Modul 431 gearbeitet. Ich habe im Modul 431 Auftrag 17
 Feinplanung:
 Im Modul 319 Mission 9 erledigen und vielleicht mit der Mission 10 anfangen.
 Im Modul 431 HZ3 abschliessen und vielleicht mit den Expertenziele anfangen.
+
+## 26.09.2025
+ Heute habe ich am Modul 431 weitergearbeitet. Ich musste nochmals in den Auftrag 1719 den Video drehen, weil der letzte zu lang war. Dann habe ich noch Auftrag 1721 fast gelöst, dort ging es um outlook und mail schreiben. Zuletzt habe ich noch einen Moodle Test gemacht.
