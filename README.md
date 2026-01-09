@@ -9,3 +9,12 @@ TEST1
 ## 2.tag
 ### reflexion
 1. ich habe den ZIP datei fertig gemacht aber ich weiss nicht ob ich es richtig gemacht habe
+
+
+
+# Lernperiode-3
+## 1.Tag
+## 09.01.2026
+### Ziele
+1. An Modul 117 wieter arbeiten: Auftrag 1708, 1713 und 1714 lösen
+2. Modul 164 reinstarten
