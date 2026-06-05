@@ -62,10 +62,20 @@ Planung für Heute:
 ### Planung für nächstes Mal: 
 - Weiter an meiner Webseite arbeiten: Neue Funktionen anwenden, die ich neu gelernt habe, und CSS anfangen anzuwenden.
 Daran würde ich etwa 3 Lektionen lang arbeiten.
-- Ein einfaches Login-System in Python nochmals versuchen, 
+- Ein einfaches Login-System in Python nochmals versuchen,
+
+### Reflexion für Heute
 aber dieses Mal mit Benutzernamen und Passwort aus Variablen. 
 Ziel ist es, besser zu verstehen, wie Bedingungen (if, else) und Benutzereingaben funktionieren.
 Daran würde ich etwa 1–2 Lektionen arbeiten.
 - Mich weiter zu Html und andere Webseite Codes engagieren.
 
+### 05.06.2026
 
+### Reflexion für Heute:
+- Heute habe ich einen Powershell Projekt gestartet. Und zwar erstelle ich einen Schulplaner für meinen Laptop.
+- Ich bin schon weit gekommen: Die Daten werden in der Excel-Datei schon eingetragen.
+
+### Planung für nächstes mal:
+-Mein Powershell Projekt abschliessen und austesten. vielleicht auch weiter empfehlen.
+-Wenn noch Zeit übrig bleibt, etwas mit HTML machen.
