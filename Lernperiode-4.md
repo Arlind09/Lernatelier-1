@@ -79,3 +79,17 @@ Daran würde ich etwa 1–2 Lektionen arbeiten.
 ### Planung für nächstes mal:
 -Mein Powershell Projekt abschliessen und austesten. vielleicht auch weiter empfehlen.
 -Wenn noch Zeit übrig bleibt, etwas mit HTML machen.
+
+### 12.06.2026
+
+### Reflexion für heute:
+- Powershell Projekt abgeschlossen (fertig)
+- mit HTML Webseite gestartet (fertig)
+
+- Heute habe ich meinen Powershell Projekt abgeschlossen und ich habe es schon in meinem Laptop als trigger reingemacht.
+- Ich habe heute noch mit dem Mockup für mein HTML Webseite gestartet und habe schon meine erste Skizze.
+
+### Planung für nächstes Mal:
+- HTML Mockup fertig machen
+- Mein HTML Code und noch vielleicht den css Code fertig machen
+- mich mit Javaskript beschäftigen
